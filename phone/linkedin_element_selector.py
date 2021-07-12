@@ -1,0 +1,16 @@
+#登录按钮
+LOGIN_BUTTON='//*[@resource-id="com.linkedin.android:id/growth_prereg_fragment_login_button"]'
+#确认登录按钮
+LOGIN_VERIFY_BUTTON='//*[@resource-id="com.linkedin.android:id/growth_login_fragment_sign_in"]'
+#关注按钮
+FOLLOW_BUTTON='//*[@resource-id="com.linkedin.android:id/pages_top_card_primary_button"]'
+#返回按钮
+RETURN_TO_LASTPAGE='//*[@content-desc="返回"]'
+#点赞按钮
+LIKE_BUTTON='//*[@resource-id="com.linkedin.android:id/feed_social_actions_like"]'
+#评论按钮
+COMMENT_BUTTON='//*[@resource-id="com.linkedin.android:id/feed_social_actions_comment"]'
+#转发按钮
+REPOST_BUTTON='//*[@resource-id="com.linkedin.android:id/feed_social_actions_reshare"]'
+#发布成功后关闭按钮
+DISMISS_BUTTON='//*[@resource-id="com.linkedin.android:id/ad_banner_dismiss"]'
